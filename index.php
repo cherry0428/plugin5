@@ -1,6 +1,6 @@
 <?php 
 /*
-  Plugin Name: BSD Structure Data hello moto
+  Plugin Name: BSD Structure Data 
   Plugin URI:
   Description: Simple WordPress plugin for  Structured Data
   Version: 1.0
